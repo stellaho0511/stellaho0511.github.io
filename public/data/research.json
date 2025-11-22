@@ -1,0 +1,28 @@
+[
+  {
+    "title": "Dust Event Detection and Trajectory Analysis in Tokamak Plasma Videos",
+    "period": "2025 Jun - Present",
+    "description": "Developed a computer vision pipeline to detect and track dust (UFO) events in DIII-D tokamak plasma shots. Built preprocessing, annotation masks, and YOLOv8 fine-tuning datasets, and analyzed temporal dust behavior across reactor components.",
+    "keywords": ["Computer Vision", "Object Detection"]
+  },
+  {
+    "title": "LaughTalk: Expressive 3D Talking-Head Generation with Laughter",
+    "period": "2023 Jun - 2023 Oct",
+    "description": "LaughTalk is an expressive talking-head generation model that seamlessly handles both speech and laughter. It extends existing speech-driven methods to capture the distinct dynamics of laughter, generating comprehensive and realistic 3D facial animations.",
+    "keywords": ["3D Talking-Head", "Multimodal Learning", "Generative Models", "WACV 2024"],
+    "url": "https://laughtalk.github.io/"
+  },
+  {
+    "title": "Audio Representation Learning and Siamese Speaker Verification",
+    "period": "2023",
+    "description": "Researched audio signal processing techniques including STFT and mel-spectrograms. Implemented CNN-based speaker classification and designed a Siamese verification model using contrastive learning.",
+    "keywords": ["Siamese Networks", "Speaker Verification", "Deep Learning"]
+  },
+  {
+    "title": "Enhancing User Well-being Through an AI-Based Healing Service",
+    "period": "2022",
+    "description": "Developed an AI-based healing service to enhance user well-being. Presented at the Korean Society of Information Processing Conference.",
+    "keywords": ["AI", "Well-being", "Healing Service"],
+    "url": "https://www.manuscriptlink.com/society/kips/conference/ack2022/programBook/presentation/streaming/poster/KIPS_C2022B0110"
+  }
+]

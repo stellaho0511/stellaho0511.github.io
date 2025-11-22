@@ -1,0 +1,5 @@
+{
+  "Languages": ["Python", "C++", "Java", "MATLAB"],
+  "Frameworks": ["PyTorch", "TensorFlow", "Keras", "Scikit-learn"],
+  "Tools": ["Git", "Docker", "Linux", "AWS"]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Dahye Hong",
+  "title": "M.S. Student in Computer Science",
+  "subtitle": "University of Southern California (USC)",
+  "bio": "I am a Master's student in Computer Science at the University of Southern California (USC). My research interests lie in Computer Vision and Deep Learning, specifically in 3D vision and generative models.",
+  "avatar": "/data/Dahye.png",
+  "email": "dahyehon@usc.edu",
+  "interests": ["Computer Vision", "3D Generative Models","Multimodal Learning"],
+  "social": {
+    "github": "https://github.com/stellaho0511",
+    "linkedin": "https://www.linkedin.com/in/dahye-hong-88ab192aa/",
+    "scholar": "https://scholar.google.com/citations?user=98-at0gAAAAJ&hl=ko&oi=ao"
+  }
+}
